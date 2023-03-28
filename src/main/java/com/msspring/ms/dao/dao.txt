@@ -1,0 +1,6 @@
+DAO Java
+O DAO gerencia a conexão com o data source para obter e armazenar 
+informações." Por meio desta abstração e desse encapsulamento do 
+data source, o maior problema que existia antes da sua criação foi 
+resolvido e, com isso, a aplicação não fica dependente da 
+implementação de um data source específico.
